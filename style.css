@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(201, 201, 218);
+}
+h1, h2 {
+    font-family: 'Source Code Pro', sans-serif;
+    font-weight: 400;
+    color: rgb(141, 108, 160);
+}
+
+p, li {
+    font-family: 'Roboto', sans-serif;
+    color: rgb(53, 52, 60);
+}
