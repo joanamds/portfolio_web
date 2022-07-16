@@ -1,10 +1,10 @@
 body {
-    background-color: rgb(202, 192, 224);
+    background-color: rgb(201, 201, 218);
 }
 h1, h2 {
     font-family: 'Source Code Pro', sans-serif;
     font-weight: 400;
-    color: rgb(65, 14, 131);
+    color: rgb(141, 108, 160);
 }
 
 p, li {
